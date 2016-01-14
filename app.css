@@ -1,0 +1,20 @@
+header,footer {
+    background-color: #004a4a;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+aside {
+    padding-top: 10px;
+    font-weight: 700;
+}
+
+h2 {
+    color: #00008b;
+    .titlecolor: #00008b;
+}
+
+#orderedlist {
+    color: #006400;
+}
